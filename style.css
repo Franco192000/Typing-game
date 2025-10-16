@@ -1,7 +1,7 @@
-.highligth {
+.highlight {
     background-color: yellow;
 }
 .error {
     background-color: lightcoral;
-    border: red;
+    border: 1px solid red;  /* Added a border for better visibility */
 }
